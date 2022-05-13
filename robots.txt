@@ -1,5 +1,5 @@
 User-agent: *
-Sitemap: gholg.github.io/sitemap.xml
+Sitemap: gholg.github.iositemap.xml
 Disallow: /ghost/
 Disallow: /p/
 Disallow: /email/
